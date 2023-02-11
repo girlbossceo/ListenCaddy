@@ -1,4 +1,4 @@
-module github.com/Odyssey346/ListenCaddy
+module github.com/r3g-5z/ListenCaddy
 
 go 1.19
 
